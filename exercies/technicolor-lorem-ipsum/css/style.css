@@ -6,3 +6,69 @@ body {
     margin: 0px;
     font-family: sans-serif;
 }
+
+#a{
+    color: cornflowerblue;
+    background-color: blueviolet;
+}
+#b{
+    color: rgb(15, 83, 143);
+    background-color: aqua;
+}
+
+#c{
+    color: rgb(40, 75, 140);
+    background-color: aquamarine;
+
+}
+
+#d{
+    color: rgb(40, 75, 140);
+    background-color: rgb(85, 45, 230);
+
+}
+
+#e{
+    color: rgb(59, 239, 125);
+    background-color: rgb(9, 109, 19);
+
+}
+
+#f{
+    color: rgb(2, 53, 21);
+    background-color: rgb(0, 163, 16);
+
+}
+
+#k{
+    color: rgb(96, 255, 128);
+    background-color: rgb(35, 61, 39);
+
+}
+
+#m{
+    color: rgb(154, 161, 23);
+    background-color: rgb(217, 236, 14);
+}
+
+#n{
+    color: rgb(220, 232, 6);
+    background-color: rgb(103, 111, 13);
+
+}
+
+
+
+#paragraph-1{
+background-color:blue;
+}
+
+
+#paragraph-2{
+background-color:rgb(0, 255, 47);
+}
+
+
+#paragraph-3{
+background-color:rgb(217, 255, 0);
+}
