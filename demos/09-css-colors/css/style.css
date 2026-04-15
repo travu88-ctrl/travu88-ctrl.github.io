@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#first-paragraph {
+    color:rgb(149, 206, 255);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#second-paragraph {
+    background-color: rgb(104, 47, 157);
+
+}
+
+#span-1{
+    color: aquamarine;
+}
+
+#span-2{
+    background-color: rgb(255, 0, 200);
+}
