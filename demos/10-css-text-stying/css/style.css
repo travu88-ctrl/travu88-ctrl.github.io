@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#span-1{
+    font-weight: bold;
+}
+
+#span-2{
+    font-style: italic;
+}
+
+#paragraph-1{
+    font-size: 16px;
+}
+#span-1 {
+  text-decoration: underline red;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#span-2 {
+  text-decoration: wavy overline lime;
+}
+
+#paragraph-1{
+    text-align: center;
+}
+
+
+#hyperlink {
+  text-decoration: line-through;
+}
+
+.plain {
+  text-decoration: none;
+}
+
+.underover {
+  text-decoration: dashed underline overline;
+}
+
+.thick {
+  text-decoration: solid underline purple 4px;
+}
+
+.blink {
+  text-decoration: blink;
+}
