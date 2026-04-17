@@ -1,0 +1,100 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.color-palette{
+    box-shadow:  6px 6px 12px;
+    text-align: center;
+    margin: 12px;
+    padding: 24px;
+
+}
+
+#shoes{
+    background-color: #0D0A0B;
+    color: aliceblue;
+}
+
+#pants{
+    background-color: #454955;
+    color: aliceblue;
+}
+
+#shirt{
+    background-color:#F3EFF5;
+}
+
+#omni{
+    background-color:#72B01D;
+}
+
+
+#trix{
+    background-color:#3F7D20;
+}
+
+.color-palette-2{
+    box-shadow: 8px 7px 10px #191818;
+    text-align: center;
+    padding: 25px;
+    margin: 25px;
+}
+
+#color{
+    background-color: #00aeef;
+}
+
+#color-1{
+    background-color: #ec008c;
+}
+
+#color-2{
+    background-color: #ffd93f;
+}
+
+#color-3{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+#color-4{
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.color-palette-3{
+    box-shadow: 8px -9px 13px ;
+    padding: 13px;
+    margin: 30px;
+    text-align: center;
+}
+
+#color-5{
+    background-color: #ff4d6d;
+    color: #000000;
+}
+
+#color-6{
+    background-color: #48cae4;
+    color: #000000;
+}
+
+#color-7{
+    background-color: #70e000;
+    color: #000000;
+}
+
+#color-8{
+    background-color: #48761b;
+    color: #000000;
+}
+
+#color-9{
+    background-color: #e70c0c;
+    color: #000000;
+}

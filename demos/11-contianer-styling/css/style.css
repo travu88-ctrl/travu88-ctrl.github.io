@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#p-1{
+    color: blue;
+}
+
+.shadowed1{
+    background-color: lightyellow;
+    margin: 24px;
+    padding: 24px;
+    box-shadow: 5px 4px 15px rgb(0, 0, 0);
+   color: red;
+}
+
+.shadowed2{
+    background-color: lightgray;
+    margin: 24px;
+    padding: 24px;
+    box-shadow: inset 3px 6px 8px;
+}
+
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
