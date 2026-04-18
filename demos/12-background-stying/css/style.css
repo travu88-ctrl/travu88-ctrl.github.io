@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+p {
+    background-color: chocolate;
+}
+
+div {
+    background-color: rgb(127, 255, 170);
+    display: inline;
+}
+
+span {
+    background-color: cornflowerblue;
+    display: block;
+}
+
+.narrow{
+    background-color: blueviolet;
+    display:inline-block;
+    width: 300px;
+    vertical-align:text-box;
+}
