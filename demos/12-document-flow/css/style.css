@@ -24,6 +24,6 @@ span {
 .narrow{
     background-color: blueviolet;
     display:inline-block;
-    width: 300px;
+    width: 3000px;
     vertical-align:text-box;
 }

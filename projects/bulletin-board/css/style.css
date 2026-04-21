@@ -6,6 +6,13 @@
 
     Good luck, and have fun!
 */
+#bulletin-board {
+    display: inline-block;
+    vertical-align: middle;
+    width: 1000px;
+    height: 1000px;
+}
+
 h2 {
     background-color: darkkhaki;
     text-align: center;
@@ -23,10 +30,34 @@ p {
 }
 
 ul {
-    text-align:center;
     padding: 30px;
     width: 269px;
     background-color: darksalmon;
     box-shadow: 5px 6px 20px;
+}
+
+h3 {
+    background-color: lavender;
+    text-align: center;
+    width: 110px;
+    padding: 20px;
+    box-shadow: 5px 6px 20px;
+}
+
+ol {
+    background-color: khaki;
+    text-align: center;
+    box-shadow: 9px 5px 15px;
+    width: 200px;
+}
+
+.bullet-board {
+    display: inline-block;
+    vertical-align: super;
+    align-items: first baseline;
+}
+
+img {
+    box-shadow: 9px 5px 15px ;
 }
 
