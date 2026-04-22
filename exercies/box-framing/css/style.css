@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+p {
+    background-color: cyan;
+    text-align: center;
+    border: black;
+}
+
+span {
+    border: 5px inset brown;
+    padding: 15px 25px 30px 20px;
+    height: 150px;
+    width: 100px;
+    margin: 10px;
+}

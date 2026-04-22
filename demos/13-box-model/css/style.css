@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+div {
+    border: 18px outset rgb(44, 255, 255);
+    height: 200px;
+    margin: 100px 50px 100px ;
+}
+
+li {
+    border: 5px solid blue;
+    margin: 25px 10px 25px;
+    padding-block-end: 9px 10px 8px 15vh;
+    border-radius: 25px;
+}
+
+p {
+    border: 18px inset rgb(5, 27, 27);
+    height: 200px;
+    margin: 100px 50px 100px;
+    padding: 30px ;
+    border-radius: 46px;
+    border-top-left-radius: 184px;
+    border-bottom-right-radius: 524px;
+}
