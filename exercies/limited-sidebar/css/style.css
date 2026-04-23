@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#sidebar{
+    font-size: larger;
+    background-color: #333333;
+    color: white;
+    width: 500px;
+    min-height: 100vh;
+    padding: 24px;
+}
+
+.Chapter{
+    color: white;
+    font-size: larger;
+    font-weight: 500;
+    font-weight: 600;
+    margin: 11px;
+}
+
+.edit{
+    color: rgb(232, 141, 76);
+    font-style: italic;
+    margin: 15px;
+}
+
+.chapter {
+    color: red;
+    font-size: larger;
+    font-style: italic;
+    font-weight: 600;
+}
+
+
+
+

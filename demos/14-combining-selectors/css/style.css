@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#navbar {
+    text-align: center;
+    background-color: blue;
+    margin: 10px;
+}
+
+p a {
+    color: teal;
+}
+
+#navbar a {
+    color: white;
+}
+
+p.warning {
+    background-color: rgb(250, 10, 170);
+}
+
+p.warning a {
+    color: aquamarine;
+}
+
+#navbar .warning{
+        color: blueviolet;
+}
