@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#Morning {
+    border: 20px solid rgb(251, 255, 0);
+    background-color: rgb(212, 215, 34);
+    margin: 50px;
+    border-radius: 25px;
+}
+
+#Afternoon {
+    border: 20px solid rgb(255, 135, 7);
+    background-color: rgb(237, 173, 52);
+    margin: 50px;
+    border-radius: 25px;
+}
+
+#Evening {
+    border: 20px solid rgb(244, 9, 9);
+    background-color: rgb(244, 85, 85);
+    margin: 50px;
+    border-radius: 25px;
+}
+
+h3 {
+    margin: 5px;
+}
+
+.completed {
+  display: inline;
+  border: 2px blueviolet solid ;
+  margin: 5px;
+}
+
+div .completed {
+    display: inline;
+    color: blueviolet;
+}
+
+li {
+    margin: 20px;
+}
+
+.complete .button {
+  display: inline;
+  color: cornsilk;
+}

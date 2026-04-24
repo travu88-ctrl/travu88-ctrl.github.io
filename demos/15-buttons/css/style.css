@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.button{
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+}
+
+.simple{
+    border: 3px solid rgba(50, 103, 28, 0.693) ;
+    background-color: aquamarine;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 24px;
+    min-width: 250px;
+}
+
+.background{
+    background-color: rgb(44, 80, 195);
+    color: rgb(91, 202, 227);
+    padding: 14px;
+    border-radius: 24px;
+    margin: 24px;
+    min-width: 250px;
+}
+
+.border{
+    border: 5px red solid;
+    color: rgb(232, 155, 168);
+    border-radius: 9px;
+    padding: 10px;
+    margin: 24px;
+    background-color: rgb(247, 191, 201);
+    min-width: 250px;
+}
+
+#section-3{
+    width: 100px;
+}
