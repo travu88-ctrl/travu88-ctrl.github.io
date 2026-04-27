@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+div.single-column{
+    background-color: coral;
+    max-width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
