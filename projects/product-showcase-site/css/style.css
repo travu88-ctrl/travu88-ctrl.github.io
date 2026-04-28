@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Fruktur:ital@0;1&family=Gravitas+One&family=Kranky&family=Libre+Barcode+39&family=Oswald:wght@200..700&display=swap');
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+div.product-placement {
+    width: 200px;
+    margin-left: 400px;
+    text-align: center;
+    background-color: darkcyan;
+}
+
+p {
+    font-family: "Oswald", sans-serif;
+}
+
+h1 {
+    font-family: "Bruno Ace SC", sans-serif;
+}
+
+a {
+   font-family: "Oswald", sans-serif;
+   border: 3px solid ;
+   border-radius: 7px; 
+   color: rgb(0, 0, 0);
+   text-decoration: none;
+width: 3px;
+background-color: aliceblue;
+}
+
+div.light-side {
+    background-color: aqua;
+}
+
+div.dark-side {
+    background-color: darkslategrey;
+}
