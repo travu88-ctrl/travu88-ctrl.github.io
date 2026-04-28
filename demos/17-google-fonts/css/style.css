@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Fruktur:ital@0;1&family=Kranky&family=Libre+Barcode+39&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fruktur:ital@0;1&family=Gravitas+One&family=Kranky&family=Libre+Barcode+39&display=swap');
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+    background-color: coral;
+}
+
+div {
+    background-color: bisque;
+    border: 10px salmon solid;
+}
+
+h1 {
+    margin-left: 150px;
+    font-family: "Kranky", serif;
+}
+
+p {
+    margin-left: 0px;
+    font-family: "Gravitas One", serif;
+    text-align: center;
+    font-size: small;
+}
+
