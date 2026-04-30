@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#single-layout {
+    max-width: 500px;
+    margin: auto;
+}
+
+#Recipie-layout {
+    display: flex;
+    align-items: center;
+    gap: 36px;
+}
+
+.Recipe {
+    max-width: 10px ;
+    margin: 510px;
+}
+
+.Recipie img {
+  display: flex;
+  max-width: max-content;
+  padding: 50px;
+  justify-content: right;
+}
+
+.Recipie .p-1 {
+    display: flex;
+    max-width: max-content;
+    padding:10px;
+}
+
+.Recipie p {
+    display: flex;
+    max-width: max-content;
+    padding:10px;
+}
+
+.Recipie h2 {
+    display: flex;
+    text-align: right;
+}
+
+.Recipie a {
+    text-decoration: none;
+    border: black solid;
+    color: azure;
+    background-color: black;
+    padding: 5px;
+}

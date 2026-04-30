@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#single-column {
+    max-width: 1200px;
+    margin: auto 0px;
+}
+
+.Cards {
+    border: 5px pink solid;
+    padding: 36px;
+    text-align: center;
+    margin: 36px 8px;
+}
+
+.div h1 {
+    font-size: 36px;
+    margin: 0px;
+}
+
+.card p {
+    font-size: 24px;
+    margin: 24px 0p;
+}
