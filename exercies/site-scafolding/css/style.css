@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#navbar {
+    background:linear-gradient(red,orange,yellow);
+    justify-content:space-evenly;
+    display: flex;
+    align-items: center;
+}
+
+#navbar .cta-button {
+    background-color: peachpuff;
+    border-radius: 36px;
+    padding: 16px 24px;    
+    min-width: 100px;
+    text-align: center;
+    margin-right: 24px;
+    margin-left: 16px;
+}
+
+#navbar a {
+    text-decoration: none;
+}
