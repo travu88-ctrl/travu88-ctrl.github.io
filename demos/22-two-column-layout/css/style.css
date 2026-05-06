@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#two-columns {
+    display: flex;
+    max-width: 700px;
+}
+
+#main-content {
+    flex: 1;
+    order: 1;
+}
+
+#sidebar-content {
+    order: 2;
+    padding: 18px;
+}
+
+#sidebar-content h2 {
+    background-color: coral;
+    color: brown;
+    padding: 12px;
+    margin: 0px;
+}
+
+#sidebar-content ul {
+    border: 1px solid ;
+    background-color: darkgoldenrod;
+    margin: 0px ;
+}
+
+#sidebar-content li {
+    padding: 8px 8px;
+    border-bottom: 1px;
+}
+
+#main-content {
+    flex: 1;
+    order: 1;
+}

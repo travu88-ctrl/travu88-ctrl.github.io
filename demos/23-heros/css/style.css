@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#centered-hero {
+    background-image: url("../images/stars-on-velvet.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+#centered-hero .hero-content {
+    color: white;
+}
+
+.hero-content h1 {
+    font-size: 72px;
+}
+
+.hero-content h3 {
+    font-size: 36px;
+}
+
+#side-hero {
+background-image: url("../images/orange-wildflowers.jpg");
+height: 100vh;
+background-size: cover;
+background-position: center center;
+display: flex;
+justify-content: flex-start;
+align-items: center;
+padding: 10%;
+color: rgb(155, 117, 45);
+}
+
+#contrast-hero {
+background-image: url("../images/snowy-wasteland.jpg");
+height: 100vh;
+background-size: cover;
+background-position: center center;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 10%;
+text-align: center;
+}
+
+#contrast-hero .hero-content {
+    background-color: cornsilk;
+    border-radius: 20px;
+    color: white;
+}
