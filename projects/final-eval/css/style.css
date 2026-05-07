@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Fruktur:ital@0;1&family=Gravitas+One&family=Kranky&family=Libre+Barcode+39&family=Oswald:wght@200..700&family=Saira+Stencil+One&display=swap');
 * {
     box-sizing: border-box;
 }
@@ -5,4 +6,41 @@
 body {
     margin: 0px;
     font-family: sans-serif;
+}
+
+#party-name {
+    text-align: center;
+}
+
+#site-layout {
+    margin-right: 180px;
+    margin-left: 150px;
+    max-width: 200px;
+    font-family: "Saira Stencil One", sans-serif;
+}
+
+#site-info {
+    text-align: center;
+}
+
+#vs-images {
+    display:flex;
+    margin-right: 300px;
+    
+    align-items: center;
+}
+
+#party-info {
+    text-align: center;
+}
+
+#site-layout #buttons {
+    text-decoration:none;
+    border: 2px;
+    text-align: center;
+    display: flex;
+}
+
+#questions {
+    text-align: center;
 }
