@@ -26,12 +26,11 @@ body {
     background-size: cover;
     background-position: center;
     height: 50vh;
-    color: rgb(60, 63, 55);
+    color: rgb(164, 171, 153);
     text-align: bottom;
     display: flex;
     align-items: flex-end;
     justify-content: center;
-
 }
 
 #hero .hero-content {
