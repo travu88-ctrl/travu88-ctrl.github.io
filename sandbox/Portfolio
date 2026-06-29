@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>TV Studios</title>
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+    <body style="background-color: rgb(187, 185, 185);">
+        <div id="navbar">
+            
+            <a href="#" class="Home">
+             
+                <h1>TV Studios</h1>    
+            
+                <a href="#">Illustrations</a>
+            
+                <a href="#">Desgins</a>
+            
+                <a href="#">Past Work</a>
+
+                <a href="#">Contacts</a>
+            </a>
+        </div>
+        
+        <br>
+        
+        <!-- Between the navbar and work showcase 
+        should be a picture or drawing of me to pull in attraction-->
+
+        <img src="images/102_NationalParkPoster_TVinson_V2.jpg"
+        width="200" alt="canyon valley">
+
+        <img src="images/102_LayersOfDepth2_TVinson.jpg" width="230" 
+        alt="Wolf howling">
+
+        <img src="images/Primary.jpg" width="200" alt="resturanut logo">
+        
+        <br>
+        
+            <!---About and Contacts should have diferent background colors-->
+
+        <h2 style="color: beige;">About Me</h2>
+
+        <p style="color: whitesmoke ;">
+            My name is Travis Vinson. 
+            I am a graphic designer and illustrator based in Philadelphia, PA. 
+            I have a passion for creating visually compelling designs and 
+            illustrations that tell a story. 
+            With a background in both traditional and digital art, 
+            I bring a unique perspective to my work. 
+            I am always looking for new opportunities to collaborate 
+            and create something amazing.
+        </p> 
+
+        <h2 style="color: beige;">Contact Me</h2>
+
+        <p style="color: whitesmoke;"> 
+            Name
+            Email
+            Message
+        </p>
+    </body>
+</html>
