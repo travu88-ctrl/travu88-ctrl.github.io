@@ -5,4 +5,6 @@
 body{
     margin: 12px;
     font-family: sans-serif;
+    background-color: rgb(rgb(103, 89, 89) green blue / alpha);
+    text-align: center;
 }
