@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    background-color: rgb(76, 72, 72);
+}
+
+body {
+    margin: 12px;
+    font-family: sans-serif;
+    background-color: rgb(rgb(76, 72, 72) green blue / alpha);
+
+}
+
+.wording{
+    margin: auto;
+    text-decoration: azure;
+    justify-content: center;
+}
+
