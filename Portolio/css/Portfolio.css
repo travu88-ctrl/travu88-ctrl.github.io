@@ -21,6 +21,11 @@ body {
     text-decoration: none;
 }
 
+#Info{
+    justify-content: center;
+    align-items: center;
+}
+
 #About{ 
     justify-content:center;
     align-items: center;
@@ -58,4 +63,33 @@ body {
     text-align:center;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border: 100px;
+}
+
+.content{
+    width:100%;
+    height: auto;
+    top: 0;
+    left: 0;
+    position: bottom;
+    background: rgba(0,0,0,0.6);
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    flex-direction: column;
+    opacity: 0;
+    transition: 0.6;
+}
+
+.content:hover{
+    opacity: 1;
+}
+
+.content h1{
+    font-size: 20px;
+    color: black;
+    margin-bottom: 15px;
+}
+
+.fa-solid {
+    justify-content: center;
 }
