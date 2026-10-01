@@ -5,6 +5,7 @@
 body {
     margin: 12px;
     font-family: sans-serif;
+    background-color: rgb(148, 143, 143);
 }
 
 #navbar {
@@ -24,6 +25,8 @@ body {
 #Info{
     justify-content: center;
     align-items: center;
+    display: flex;
+    image-rendering:auto;
 }
 
 #About{ 
