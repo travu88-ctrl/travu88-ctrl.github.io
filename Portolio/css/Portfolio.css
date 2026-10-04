@@ -29,6 +29,11 @@ body {
     image-rendering:auto;
 }
 
+#Info img{
+    border-radius: 40%;
+    width: 30vw;
+}
+
 #About{ 
     justify-content:center;
     align-items: center;

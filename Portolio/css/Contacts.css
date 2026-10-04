@@ -1,0 +1,20 @@
+*{
+   box-sizing: border-box; 
+}
+
+body {
+   margin: 12px;
+   font-family: sans-serif;    
+   background-color: rgb(148, 143, 143);
+}
+
+.Contact {
+   justify-content: center;
+   align-items: center;
+}
+
+.Contact .Reason{
+   justify-content: center;
+   align-items: center;
+   aspect-ratio: 0/6;
+}
