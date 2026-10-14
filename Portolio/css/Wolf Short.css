@@ -1,13 +1,12 @@
 * {
     box-sizing: border-box;
-    background-color: rgb(76, 72, 72);
+    background-color:rgb(148, 143, 143);
 }
 
 body {
     margin: 12px;
     font-family: sans-serif;
-    background-color: rgb(rgb(76, 72, 72) green blue / alpha);
-
+    background-color:rgb(148, 143, 143);
 }
 
 .wording{
@@ -15,4 +14,3 @@ body {
     text-decoration: azure;
     justify-content: center;
 }
-
