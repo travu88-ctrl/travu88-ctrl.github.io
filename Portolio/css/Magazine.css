@@ -1,0 +1,10 @@
+*{
+    margin: auto;
+    padding: auto;
+}
+
+body {
+    margin: 12px;
+    font-family: sans-serif;
+    background-color: rgb(148, 143, 143)
+}
