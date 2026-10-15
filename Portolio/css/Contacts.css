@@ -8,13 +8,26 @@ body {
    background-color: rgb(148, 143, 143);
 }
 
+#navbar {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(97, 89, 89);
+    align-items: center
+}
+
+#navbar a{
+    font-family:monospace;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
+
 .Contact {
    justify-content: center;
    align-items: center;
+   font-family: monospace;
 }
 
 .Contact .Reason{
-   justify-content: center;
-   align-items: center;
-   aspect-ratio: 0/6;
+   padding-bottom: 20px;
 }

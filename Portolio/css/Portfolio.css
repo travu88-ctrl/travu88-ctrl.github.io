@@ -11,7 +11,7 @@ body {
 #navbar {
     display: flex;
     justify-content: space-evenly;
-    background-color: rgb(148, 143, 143);
+    background-color: rgb(97, 89, 89);
     align-items: center
 }
 

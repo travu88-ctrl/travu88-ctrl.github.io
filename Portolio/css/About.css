@@ -1,0 +1,28 @@
+*{
+    margin: auto;
+    padding: auto;
+}
+
+body {
+    margin: 12px;
+    font-family: sans-serif;
+    background-color: rgb(148, 143, 143)
+}
+
+#navbar {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(97, 89, 89);
+    align-items: center
+}
+
+#navbar a{
+    font-family:monospace;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
+
+#About{
+    text-align: center;
+}
