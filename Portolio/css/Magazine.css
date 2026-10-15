@@ -34,3 +34,7 @@ p{
     font-family: monospace;
     padding-bottom: 5%;
 }
+
+#Magazine{
+    display:flexbox;
+}
